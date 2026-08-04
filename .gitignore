@@ -1,0 +1,9 @@
+.DS_Store
+.build/
+.swiftpm/
+DerivedData/
+outputs/
+work/
+*.xcuserstate
+config.bat
+node_modules
